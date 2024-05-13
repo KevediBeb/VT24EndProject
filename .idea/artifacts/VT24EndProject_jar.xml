@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VT24EndProject:jar">
+    <output-path>$USER_HOME$/Desktop/Project</output-path>
+    <root id="archive" name="VT24EndProject.jar">
+      <element id="module-output" name="VT24EndProject" />
+    </root>
+  </artifact>
+</component>
